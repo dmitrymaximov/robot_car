@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Car Center</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="button_back">Back</string>
+    <string name="button_forward">Forward</string>
+    <string name="button_buzz">Buzz</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_line_follow">Line Follow</string>
+    <string name="button_avoidance">Avoidance</string>
+    <string name="button_right">Right</string>
+    <string name="button_left">Left</string>
+</resources>

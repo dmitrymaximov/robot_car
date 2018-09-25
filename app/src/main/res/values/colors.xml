@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="JV_backgroundColor">#009688</color>
+    <color name="JV_borderColor">#00796B</color>
+    <color name="JV_buttonColor">#FF6E40</color>
+</resources>
